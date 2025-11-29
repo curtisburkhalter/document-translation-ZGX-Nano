@@ -205,3 +205,7 @@ Then re-run the installation script.
 | `install.sh` | One-time installation script |
 | `start_demo_remote.sh` | Demo startup script with auto-IP detection |
 | `download_models.sh` | Optional S3 model pre-download script |
+
+## Support
+
+If you have questions about this demo contact Curtis Burkhalter at curtisburkhalter@gmail.com
